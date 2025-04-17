@@ -13,21 +13,11 @@ PhishGuard is a comprehensive phishing awareness simulation platform designed to
 - **Analytics Dashboard**: View comprehensive metrics and reports on campaign effectiveness
 - **Educational Resources**: Redirect users to educational content after phishing simulations
 
-## Technology Stack
-
-- **Frontend**: React, TypeScript, TailwindCSS, Shadcn UI
-- **Backend**: Node.js, Express
-- **Database**: In-memory storage (can be configured with PostgreSQL)
-- **Authentication**: JWT-based authentication
-- **Email Delivery**: Nodemailer (configurable with SMTP services)
-- **Build Tools**: Vite, TSX
+ 
 
 ## Installation and Setup
 
-### Prerequisites
-
-- Node.js v18.0.0 or higher
-- npm v9.0.0 or higher
+ 
 
 ### Installation Steps
 
@@ -71,6 +61,12 @@ PhishGuard is a comprehensive phishing awareness simulation platform designed to
 
 - **Username**: admin
 - **Password**: admin123
+
+---
+---
+![image](https://github.com/user-attachments/assets/1d90758a-6525-4a9f-b9bf-42f2eb973c1b)
+
+
 
 *Note: Change these credentials immediately after first login for security purposes.*
 
